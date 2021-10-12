@@ -15,8 +15,6 @@ So that I can save a website
 I would like to add the site's address and title to bookmark manager
 ```
 
-```
-
 ### To set up the database
 
 Connect to `psql` and create the `bookmark_manager` database:
