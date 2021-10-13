@@ -7,12 +7,17 @@ This code is intended as a supplementary guide for [bookmark manager](https://gi
 ```
 As a time-pressed user 
 so that I can go back to webpages that are of interest to me 
-I want to be able to bookmark them and return a list of them 
+I want to be able to return a list of them 
 ```
 ```
 As a time-pressed user
 So that I can save a website
 I would like to add the site's address and title to bookmark manager
+```
+```
+As a user
+So I can store bookmark data for later retrieval
+I want to add a bookmark to Bookmark Manager
 ```
 
 ### To set up the database
